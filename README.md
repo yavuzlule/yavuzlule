@@ -16,9 +16,11 @@ Looking ahead, my career aspirations are deeply rooted in the intersection of ar
 
 Currently, I am deeply immersed in exploring the fascinating domain of generative artificial intelligence. Through rigorous study, I am delving into the intricacies of generative models, understanding their underlying principles, and honing my skills in applying them to diverse creative tasks. 
 
-I am seeking opportunities for internships in the fields of Data Science and Machine Learning. If you're interested, feel free to reach out to me. You can find more about my professional background and experiences on my LinkedIn profile: <a href="https://www.linkedin.com/yavuzlule" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+I am seeking opportunities for internships in the fields of Data Science and Machine Learning. If you're interested, feel free to reach out to me. You can find more about my professional background and experiences on my LinkedIn profile:
+<br></br>
+<a href="https://www.linkedin.com/in/yavuz-l-53432611b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <!--
 **yavuzlule/yavuzlule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
