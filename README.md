@@ -6,10 +6,19 @@ As a Computer Science student at Sabancı University, I have developed a strong 
 
 Looking ahead, my career aspirations are deeply rooted in the intersection of artificial intelligence and the dynamic realm of media and entertainment. I am particularly drawn to the potential of AI to revolutionize content creation, recommendation systems, and audience engagement in this industry. Leveraging my background in Computer Science, I aim to contribute innovative solutions that enhance user experiences, optimize content delivery, and drive creative storytelling. 
 
+### Tech Stack
+ * Numpy
+ * Pandas
+ * Matplotlib
+ * Scikit-learn
+
 ## Currently
 
 Currently, I am deeply immersed in exploring the fascinating domain of generative artificial intelligence. Through rigorous study, I am delving into the intricacies of generative models, understanding their underlying principles, and honing my skills in applying them to diverse creative tasks. 
 
+I am seeking opportunities for internships in the fields of Data Science and Machine Learning. If you're interested, feel free to reach out to me. You can find more about my professional background and experiences on my LinkedIn profile: <a href="https://www.linkedin.com/yavuzlule" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 <!--
 **yavuzlule/yavuzlule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
