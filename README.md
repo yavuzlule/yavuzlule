@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 
 I'm Yavuz, a senior undergraduate student studying Computer Science at Sabancı University. I'm passionate about Data Science and Machine Learning.
 
