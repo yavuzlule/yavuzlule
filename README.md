@@ -14,9 +14,7 @@ Looking ahead, my career aspirations are deeply rooted in the intersection of ar
 
 ## Currently
 
-Currently, I am deeply immersed in exploring the fascinating domain of generative artificial intelligence. Through rigorous study, I am delving into the intricacies of generative models, understanding their underlying principles, and honing my skills in applying them to diverse creative tasks. 
-
-I am seeking opportunities for internships in the fields of Data Science and Machine Learning. If you're interested, feel free to reach out to me. You can find more about my professional background and experiences on my LinkedIn profile:
+Currently, I am deeply immersed in exploring the fascinating domain of generative artificial intelligence.
 <br></br>
 <a href="https://www.linkedin.com/in/yavuz-l-53432611b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
